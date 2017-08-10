@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../dojo/dojo.js"></script>
+
+</head>
+<body>
+        <p id="widget"></p>
+
+    <script>
+        require([
+            "dojo/dom",
+            "qOVOp/SomeWidget"
+        ],function (dom, Widget) {
+            new Widget({}, "widget");
+        })
+    </script>
+</body>
+</html>

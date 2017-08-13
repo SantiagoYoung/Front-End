@@ -54,13 +54,15 @@
     <p id="description">Choose an image.</p>
 
     <script>
-        var items = document.getElementsByTagName('li');
-        for (var i = 0; i < items.length; i++){
-            items[i].getElementsByTagName('a')[0].setAttribute("onclick","showPic(this); return false")
-        }
-        var body_element = document.getElementsByTagName("body")[0];
-        var s = body_element.childNodes.length;
-        console.log(s);
+//        var items = document.getElementsByTagName('li');
+//        for (var i = 0; i < items.length; i++){
+//            items[i].getElementsByTagName('a')[0].setAttribute("onclick","showPic(this); return false")
+//        }
+//        var body_element = document.getElementsByTagName("body")[0];
+//        var s = body_element.childNodes.length;
+//        console.log(s);
+        window.onload =
+            prepareGallery();
     </script>
 </body>
 </html>

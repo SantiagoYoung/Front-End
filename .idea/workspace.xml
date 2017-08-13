@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fafaf6-deae-48a6-8ddc-5f0a4214d049" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/images/bigben.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/images/coffee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/images/fireworks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/images/placeholder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/images/rose.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dom Script/JavaScript DOM编程艺术(第2版)-源代码/chapter04/image_gallery/02/gallery.html" afterPath="$PROJECT_DIR$/Dom Script/JavaScript DOM编程艺术(第2版)-源代码/chapter04/image_gallery/02/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dom Script/chapter4/gallery.html" afterPath="$PROJECT_DIR$/Dom Script/chapter4/gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js" afterPath="$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,21 +19,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dom Script/chapter4/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+            <state relative-caret-position="122">
+              <caret line="60" column="64" lean-forward="false" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="showPic.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="showPic.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="1">
+              <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -88,8 +82,8 @@
         <option value="$PROJECT_DIR$/HTML&amp;CSS&amp;Practice/links/linking-to-other-pages.html" />
         <option value="$PROJECT_DIR$/HTML&amp;CSS/chapter-06/long-tables.html" />
         <option value="$PROJECT_DIR$/Dom Script/family-tree.html" />
-        <option value="$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js" />
         <option value="$PROJECT_DIR$/Dom Script/chapter4/gallery.html" />
+        <option value="$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js" />
       </list>
     </option>
   </component>
@@ -100,8 +94,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="151" />
+    <option name="x" value="9" />
+    <option name="y" value="60" />
     <option name="width" value="1324" />
     <option name="height" value="772" />
   </component>
@@ -387,7 +381,7 @@
       <workItem from="1502256849325" duration="9923000" />
       <workItem from="1502334461687" duration="5321000" />
       <workItem from="1502422955087" duration="3314000" />
-      <workItem from="1502615734726" duration="9121000" />
+      <workItem from="1502615734726" duration="10812000" />
     </task>
     <task id="LOCAL-00001" summary="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage">
       <created>1502180163278</created>
@@ -452,14 +446,21 @@
       <option name="project" value="LOCAL" />
       <updated>1502367906680</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="don">
+      <created>1502634769466</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1502634769466</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37573000" />
+    <option name="totallyTimeSpent" value="39264000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="151" width="1324" height="772" extended-state="0" />
+    <frame x="9" y="60" width="1324" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22018349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -491,7 +492,8 @@
     <MESSAGE value="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage&#10;              --&gt;html &amp; css" />
     <MESSAGE value="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage&#10;              --&gt;html &amp; css &amp; book" />
     <MESSAGE value="chapter2" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter2" />
+    <MESSAGE value="don" />
+    <option name="LAST_COMMIT_MESSAGE" value="don" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -843,18 +845,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js">
+    <entry file="file://$PROJECT_DIR$/Dom Script/chapter4/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="122">
+          <caret line="60" column="64" lean-forward="false" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dom Script/chapter4/gallery.html">
+    <entry file="file://$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="1">
+          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
           <folding />
         </state>
       </provider>

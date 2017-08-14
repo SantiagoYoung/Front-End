@@ -39,15 +39,33 @@
             text-align: center;
             font-weight: bold;
         }
+        #imagegallery {
+            list-style: none;
+        }
+        #imagegallery li {
+            display: inline;
+        }
     </style>
 </head>
 <body>
     <h1>SnapShots</h1>
-    <ul>
-        <li><a  href="images/fireworks.jpg" title="A firework dispaly">Fireworks</a> </li>
-        <li><a  href="images/coffee.jpg" title="A cup of black coffee">Coffee</a> </li>
-        <li><a  href="images/rose.jpg" title="A red, red rose">Rose</a> </li>
-        <li><a  href="images/bigben.jpg" title="The famous clock">Big Ben</a> </li>
+    <ul id="imagegallery">
+        <li>
+            <a  href="images/fireworks.jpg" title="A firework dispaly">Fireworks</a>
+            <img src="images/thumbnail_fireworks.jpg" alt="Fireworks" />
+        </li>
+        <li>
+            <a  href="images/coffee.jpg" title="A cup of black coffee">Coffee</a>
+            <img src="images/thumbnail_coffee.jpg" alt="Coffee" />
+        </li>
+        <li>
+            <a  href="images/rose.jpg" title="A red, red rose">Rose</a>
+            <img src="images/thumbnail_rose.jpg" alt="Rose" />
+        </li>
+        <li>
+            <a  href="images/bigben.jpg" title="The famous clock">Big Ben</a>
+            <img src="images/thumbnail_bigben.jpg" alt="Big Ben" />
+        </li>
     </ul>
 
     <img id="placeholder" src="images/placeholder.gif" alt="my image gallery">
@@ -61,8 +79,7 @@
 //        var body_element = document.getElementsByTagName("body")[0];
 //        var s = body_element.childNodes.length;
 //        console.log(s);
-        window.onload =
-            prepareGallery();
+        window.onload = prepareGallery();
     </script>
 </body>
 </html>

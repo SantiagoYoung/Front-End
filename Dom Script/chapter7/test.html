@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Testing</title>
+</head>
+<script type="text/javascript" src="example.js">
+</script>
+<body>
+
+<!--<script>document.write("<p>This is inserted</p>");</script>-->
+    <!--<div id="testdiv"></div>-->
+
+    <div id="testdiv">
+        <!--<p>This is <em>my</em> content.</p>-->
+    </div>
+
+    <script>
+        var para = document.createElement("p");
+        var txt1 = document.createTextNode("This is");
+        para.appendChild(txt1);
+        var emphasis = document.createElement("em");
+        var txt2 = document.createTextNode("my");
+        emphasis.appendChild(txt2);
+        para.appendChild(emphasis);
+        var txt3 = document.createTextNode(" content.");
+        para.appendChild(txt3);
+        var testdiv = document.getElementById("testdiv");
+        testdiv.appendChild(para);
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

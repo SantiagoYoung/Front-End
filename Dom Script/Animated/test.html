@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p id="message">Whee!</p>
+    <script>
+        function positionMessage() {
+            if(!document.getElementById("message")) return false;
+            if(!document.getElementById) return false;
+            var elem = document.getElementById("message");
+            elem.style.position = 'absolute';
+            elem.style.left = "50px";
+            elem.style.top = "100px";
+            var movement = setTimeout("moveMessage()", 500);
+        }
+        function addLoadEvent(func) {
+            var oldonload = window.onload;
+            if (typeof window.onload != 'function') {
+                window.onload = func;
+            } else {
+                window.onload = function() {
+                    oldonload();
+                    func();
+                }
+            }
+        }
+        function moveMessage() {
+            if (!document.getElementById) return false;
+            if (!document.getElementById("message")) return false;
+            var elem = document.getElementById("message");
+            elem.style.left = "200px";
+        }
+        addLoadEvent(positionMessage);
+//        addLoadEvent(moveMessage);
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

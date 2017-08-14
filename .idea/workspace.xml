@@ -2,31 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fafaf6-deae-48a6-8ddc-5f0a4214d049" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/images/thumbnail_bigben.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/images/thumbnail_coffee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/images/thumbnail_fireworks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter4/images/thumbnail_rose.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/images/bigben.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/images/coffee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/images/fireworks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/images/placeholder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/images/rose.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/images/thumbnail_bigben.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/images/thumbnail_coffee.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/images/thumbnail_fireworks.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/images/thumbnail_rose.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/addLoadEvent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/ajax.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/getHTTPObject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/getNewContent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/response.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/showPic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/styles/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter7/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter8/addLoadEvent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter8/displayAbbreviations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter8/displayCitations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter8/explanation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/chapter8/styles/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/css Dom/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/css Dom/itinerary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/css Dom/story.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/css Dom/stripeTables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dom Script/css Dom/test.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dom Script/chapter4/gallery.html" afterPath="$PROJECT_DIR$/Dom Script/chapter4/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js" afterPath="$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,45 +27,23 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ajax.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dom Script/chapter7/ajax.html">
+      <file leaf-file-name="itinerary.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dom Script/css Dom/itinerary.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            <state relative-caret-position="480">
+              <caret line="61" column="32" lean-forward="false" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getHTTPObject.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dom Script/chapter7/getHTTPObject.js">
+      <file leaf-file-name="stripeTables.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dom Script/css Dom/stripeTables.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addLoadEvent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dom Script/chapter7/addLoadEvent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="84">
+              <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
               <folding>
-                <element signature="n#!!doc;n#addLoadEvent#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getNewContent.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dom Script/chapter7/getNewContent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc;n#getNewContent#0" expanded="false" />
+                <element signature="n#!!doc;n#stripeTables#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -138,6 +102,15 @@
         <option value="$PROJECT_DIR$/Dom Script/chapter7/addLoadEvent.js" />
         <option value="$PROJECT_DIR$/Dom Script/chapter7/getHTTPObject.js" />
         <option value="$PROJECT_DIR$/Dom Script/chapter7/getNewContent.js" />
+        <option value="$PROJECT_DIR$/Dom Script/chapter8/styles/typography.css" />
+        <option value="$PROJECT_DIR$/Dom Script/chapter8/displayAbbreviations.js" />
+        <option value="$PROJECT_DIR$/Dom Script/chapter8/displayCitations.js" />
+        <option value="$PROJECT_DIR$/Dom Script/chapter8/explanation.html" />
+        <option value="$PROJECT_DIR$/Dom Script/css Dom/test.html" />
+        <option value="$PROJECT_DIR$/Dom Script/css Dom/example.html" />
+        <option value="$PROJECT_DIR$/Dom Script/css Dom/story.html" />
+        <option value="$PROJECT_DIR$/Dom Script/css Dom/stripeTables.js" />
+        <option value="$PROJECT_DIR$/Dom Script/css Dom/itinerary.html" />
       </list>
     </option>
   </component>
@@ -148,8 +121,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="78" />
+    <option name="x" value="222" />
+    <option name="y" value="139" />
     <option name="width" value="1284" />
     <option name="height" value="773" />
   </component>
@@ -235,15 +208,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter07" />
+              <option name="myItemId" value="chapter08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="image_gallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04" />
+              <option name="myItemId" value="citations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -265,19 +234,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chapter07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image_gallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
+              <option name="myItemId" value="chapter08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,55 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript DOM编程艺术(第2版)-源代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image_gallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dom Script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaScript DOM编程艺术(第2版)-源代码" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dom Script" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter7" />
+              <option name="myItemId" value="css Dom" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -367,11 +276,11 @@
       <recent name="E:\Front-End" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Front-End\Dom Script\chapter8" />
       <recent name="E:\Front-End\Dom Script\chapter7" />
       <recent name="E:\Front-End\Dom Script\chapter4" />
       <recent name="C:\JavaProject\FrontEnd\Front-End\Dom Script\JavaScript DOM编程艺术(第2版)-源代码\chapter04\image_gallery\02\images" />
       <recent name="C:\JavaProject\FrontEnd\Front-End\Dom Script\chapter4" />
-      <recent name="E:\Front-End" />
     </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -1851,14 +1760,21 @@
       <option name="project" value="LOCAL" />
       <updated>1502634769466</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="createElement&#10;createTextNode&#10;appendChild&#10;insertBefore">
+      <created>1502689171341</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1502689171341</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47761000" />
+    <option name="totallyTimeSpent" value="55853000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="78" width="1284" height="773" extended-state="0" />
+    <frame x="222" y="139" width="1284" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22712934" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1900,82 +1816,16 @@
     <MESSAGE value="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage&#10;              --&gt;html &amp; css &amp; book" />
     <MESSAGE value="chapter2" />
     <MESSAGE value="don" />
-    <option name="LAST_COMMIT_MESSAGE" value="don" />
+    <MESSAGE value="createElement&#10;createTextNode&#10;appendChild&#10;insertBefore" />
+    <option name="LAST_COMMIT_MESSAGE" value="createElement&#10;createTextNode&#10;appendChild&#10;insertBefore" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dojo/dom-construct.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="128" lean-forward="false" selection-start-line="7" selection-start-column="128" selection-end-line="7" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dojo/_base/configRhino.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="75" column="33" lean-forward="true" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/WMS测试场景概要 (1).html" />
-    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/chapter-17/images/bok-choi.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/chapter-17/example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/chapter-01/example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS/chapter-01/body-head-title.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qOVOp/templates/hypothetical.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS&amp;Practice/chapter2/chapter2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML&amp;CSS&amp;Practice/chapter1/example.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qOVOp/DomFunction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/qOVOp/templates/SomeWidget.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -2266,11 +2116,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Dom Script/chapter7/getNewContent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="420">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc;n#getNewContent#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/chapter8/styles/typography.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/chapter8/addLoadEvent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/chapter8/displayAbbreviations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="34" column="35" lean-forward="false" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc;n#displayAbbreviations#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/JavaScript DOM编程艺术(第2版)-源代码/chapter08/citations/explanation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/chapter8/displayCitations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc;n#displayCitations#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/chapter8/explanation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="81" column="40" lean-forward="false" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/css Dom/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/css Dom/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/css Dom/story.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/css Dom/stripeTables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <element signature="n#!!doc;n#stripeTables#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dom Script/css Dom/itinerary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="61" column="32" lean-forward="false" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>

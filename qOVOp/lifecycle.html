@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../dijit/themes/claro/claro.css" media="screen">
+    <link rel="stylesheet" href="demo.css">
+</head>
+
+<body class="claro">
+        <h1>Demo: Showing the lifecycle of a Widget</h1>
+        <p>The list below is created dynamically during the instantiation of a simple Dijit button. For more detailed information
+            (such as the arguments passed to each method), check your Firebug or Developer console.</p>
+        <ol id="lifecycle"></ol>
+        <div id="buttonContainer"></div>
+
+        <script src="../dojo/dojo.js" data-dojo-config="async: true" ></script>
+        <script>
+            require([
+                "dojo/_base/array",
+                "dijit/form/Button",
+                "dojo/aspect",
+                "dojo/dom",
+                "dojo/dom-construct",
+                "dojo/domReady!"
+            ], function (array, Button, aspect, dom, domConstruct) {
+                var methods = [ "postscript", "create", "postMixInProperties", "buildRendering", "postCreate", "startup" ];
+                array.forEach(methods, function(method){
+                    aspect.before(Button.prototype, method, function(){
+                        if(console && console.log) { console.log(method, arguments); }
+                        domConstruct.create("li", {
+                            innerHTML: method
+                        }, dom.byId("lifecycle"));
+                    });
+                });
+                var button = Button({ label: "A button" }, dom.byId("buttonContainer"));
+                button.startup();
+            })
+        </script>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-3.2.1.min.js"></script>
+    <script>
+        $(window).on("load", function () {
+            console.log("window ready.");
+        });
+        $(function () {
+            console.log("dom ready.")
+        });
+        var $j = jQuery.noConflict();
+
+    </script>
+</head>
+<body>
+    <iframe src="http://baidu.com"></iframe>
+</body>
+</html>

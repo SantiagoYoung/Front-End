@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4fafaf6-deae-48a6-8ddc-5f0a4214d049" name="Default" comment="Template">
+    <list default="true" id="e4fafaf6-deae-48a6-8ddc-5f0a4214d049" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JqueryDemo/Shopping/detail.html" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JqueryDemo/Shopping/index.html" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -721,11 +718,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502800196896</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="css detail">
+      <created>1502897738211</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1502897738211</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89719000" />
+    <option name="totallyTimeSpent" value="89750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -773,7 +777,8 @@
     <MESSAGE value="createElement&#10;createTextNode&#10;appendChild&#10;insertBefore" />
     <MESSAGE value="html5" />
     <MESSAGE value="Template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Template" />
+    <MESSAGE value="css detail" />
+    <option name="LAST_COMMIT_MESSAGE" value="css detail" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

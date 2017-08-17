@@ -20,6 +20,21 @@
     top: 20px;
     position: absolute;
 }
+#inputSearch {
+    border: 1px solid #BABEBF;
+    color: #999999;
+    font-size: 14px;
+    height: 17px;
+    padding: 3px 6px 5px 6px;
+    width: 200px;
+}
+#inputSearch.focus{
+    border: 1px solid #00A5FF;
+}
+/*///////////////////////*/
+
+
+
 #skin {
     float: right;
     margin: 10px;
@@ -56,7 +71,7 @@
     left: 0px;
     height: 37px;
     line-height: 37px;
-    width: 100%;
+    width: 990px;
     z-index: 100;
     background-color: #4A4A4A;
 }
@@ -80,16 +95,28 @@
     font-size: 14px;
 }
 .jnNav {
-    background: #FFF;
-    border: 1px solid #b1b1b1;
-    border-top: 0;
+    background:#FFFFFF;
+    border: 1px solid #B1B1B1;
+    border-top:0;
+    left: 0;
     overflow: hidden;
     position: absolute;
     top: 37px;
-    left: 0;
     width: 474px;
     z-index: 1000;
-    display: none;
+    display:none;
+}
+.jnNav {
+    background:#FFFFFF;
+    border: 1px solid #B1B1B1;
+    border-top:0;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 37px;
+    width: 474px;
+    z-index: 1000;
+    display:none;
 }
 .jnNav .subitem {
     float: left;
@@ -102,9 +129,13 @@
     border-top: 1px dashed #C4C4C4;
     overflow: hidden;
     padding: 8px 0;
-    float: left;
+    float:left;
 }
-.jnNav .subitem dt{
+.jnNav .subitem .fore {
+    border-top-style: none;
+    padding-top: 0;
+}
+.jnNav .subitem dt {
     float: left;
     font-weight: bold;
     line-height: 16px;
@@ -112,11 +143,36 @@
     text-align: center;
     width: 76px;
 }
+.jnNav .subitem dt a {
+    color: #000;
+    font-weight: 700;
+    font-size:12px;
+    padding:0;
+}
 .jnNav .subitem dd {
     float: left;
     overflow: hidden;
     padding: 0;
     width: 364px;
+}
+.jnNav .subitem em {
+    border-right: 1px solid #CCCCCC;
+    float: left;
+    font-style: normal;
+    height: 14px;
+    line-height: 14px;
+    margin: 5px 0;
+    padding: 0 8px;
+}
+.jnNav .subitem em a {
+    color: #666666;
+    white-space: nowrap;
+    font-size:12px;
+    font-weight:normal;
+    padding:0;
+}
+.jnNav .subitem em.noborder {
+    border-right: 0 none;
 }
 /*主题*/
 #content {

@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fafaf6-deae-48a6-8ddc-5f0a4214d049" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/box.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/thickbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/changeSkin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery.jqzoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery.thickbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/nav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/showImg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/tooltip.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JqueryDemo/Shopping/detail.html" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/detail.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JqueryDemo/Shopping/index.html" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css" afterPath="$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,11 +28,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="189">
+              <caret line="269" column="53" lean-forward="true" selection-start-line="269" selection-start-column="53" selection-end-line="269" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tooltip.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/tooltip.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -53,9 +63,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -63,6 +73,10 @@
     <findStrings>
       <find>construct</find>
       <find>place</find>
+      <find>focus</find>
+      <find>MyCssSkin</find>
+      <find>Mycss</find>
+      <find>.mainNav</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -71,12 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HTML&amp;CSS&amp;Practice/links/linking-to-other-sites.html" />
-        <option value="$PROJECT_DIR$/HTML&amp;CSS&amp;Practice/links/linking-to-other-pages.html" />
-        <option value="$PROJECT_DIR$/HTML&amp;CSS/chapter-06/long-tables.html" />
-        <option value="$PROJECT_DIR$/Dom Script/family-tree.html" />
-        <option value="$PROJECT_DIR$/Dom Script/chapter4/scripts/showPic.js" />
-        <option value="$PROJECT_DIR$/Dom Script/chapter4/gallery.html" />
         <option value="$PROJECT_DIR$/Dom Script/chapter7/test.html" />
         <option value="$PROJECT_DIR$/Dom Script/chapter7/gallery.html" />
         <option value="$PROJECT_DIR$/Dom Script/chapter7/showPic.js" />
@@ -118,10 +126,16 @@
         <option value="$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/3.判断浏览器类型.html" />
         <option value="$PROJECT_DIR$/jquery-demo/Ch8/detail.html" />
         <option value="$PROJECT_DIR$/JqueryDemo/Shopping/styles/reset.css" />
-        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css" />
-        <option value="$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css" />
         <option value="$PROJECT_DIR$/JqueryDemo/Shopping/detail.html" />
+        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/input.js" />
+        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/index.html" />
+        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/changeSkin.js" />
+        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css" />
+        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/nav.js" />
         <option value="$PROJECT_DIR$/JqueryDemo/Shopping/index.html" />
+        <option value="$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css" />
+        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/showImg.js" />
+        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/scripts/tooltip.js" />
       </list>
     </option>
   </component>
@@ -132,7 +146,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
+    <option name="x" value="49" />
+    <option name="y" value="5" />
     <option name="width" value="1324" />
     <option name="height" value="772" />
   </component>
@@ -231,6 +246,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="JqueryDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Shopping" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Front-End" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Front-End" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="jquery-demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -305,18 +342,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping\scripts" />
       <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping\styles" />
       <recent name="E:\Front-End\JqueryDemo\Shopping" />
       <recent name="E:\Front-End\Dom Script\html5" />
       <recent name="E:\Front-End\Dom Script\Animated" />
-      <recent name="E:\Front-End\Dom Script\chapter8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping" />
+      <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping\scripts" />
       <recent name="E:\Front-End\JqueryDemo\Shopping\scripts" />
       <recent name="E:\Front-End\JqueryDemo\Shopping\styles" />
       <recent name="E:\Front-End\JqueryDemo" />
-      <recent name="C:\JavaProject\FrontEnd\Front-End\Dom Script\chapter4\images" />
-      <recent name="E:\Front-End\HTML&amp;CSS&amp;Practice\chapter2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -416,7 +453,7 @@
       <workItem from="1502422955087" duration="3314000" />
       <workItem from="1502615734726" duration="10812000" />
       <workItem from="1502797115893" duration="14699000" />
-      <workItem from="1502980985485" duration="347000" />
+      <workItem from="1502980985485" duration="5534000" />
     </task>
     <task id="LOCAL-00001" summary="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage">
       <created>1502180163278</created>
@@ -530,14 +567,21 @@
       <option name="project" value="LOCAL" />
       <updated>1502897753705</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="prepare jquery">
+      <created>1502981340249</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1502981340249</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90193000" />
+    <option name="totallyTimeSpent" value="95380000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="0" width="1324" height="772" extended-state="0" />
+    <frame x="49" y="5" width="1324" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17431192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -584,47 +628,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/1.禁用页面的右键菜单.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/3.判断浏览器类型.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/4.输入框文字获取和失去焦点.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/img/file-blue.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/img/file-orange.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/img/file-red.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/img/window.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/2.新窗口打开页面.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -812,6 +815,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="677">
           <caret line="54" column="18" lean-forward="false" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -840,14 +844,6 @@
     <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/images/star-matrix.gif">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1122">
-          <caret line="627" column="0" lean-forward="false" selection-start-line="627" selection-start-column="0" selection-end-line="627" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/box.css">
@@ -897,24 +893,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="84" />
+        <state relative-caret-position="315">
+          <caret line="45" column="46" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch9/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="556" column="0" lean-forward="false" selection-start-line="556" selection-start-column="0" selection-end-line="556" selection-end-column="0" />
+        <state relative-caret-position="211">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding>
+            <marker date="1327555600000" expanded="true" signature="30181:30212" ph="..." />
+            <marker date="1327555600000" expanded="true" signature="35199:35209" ph="..." />
+            <marker date="1327555600000" expanded="true" signature="35320:35351" ph="..." />
+            <marker date="1327555600000" expanded="true" signature="230685:230778" ph="..." />
+            <marker date="1327555600000" expanded="true" signature="230811:230904" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/input.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery.cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="84" />
+        <state relative-caret-position="147">
+          <caret line="7" column="84" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/changeSkin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="64" lean-forward="false" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="173" column="22" lean-forward="false" selection-start-line="173" selection-start-column="22" selection-end-line="173" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -927,10 +963,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="67" column="14" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/showImg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="189">
+          <caret line="269" column="53" lean-forward="true" selection-start-line="269" selection-start-column="53" selection-end-line="269" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/tooltip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding />
         </state>
       </provider>

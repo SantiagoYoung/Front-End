@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fafaf6-deae-48a6-8ddc-5f0a4214d049" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/box.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/styles/thickbox.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JqueryDemo/Shopping/detail.html" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JqueryDemo/Shopping/index.html" afterPath="$PROJECT_DIR$/JqueryDemo/Shopping/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css" afterPath="$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +28,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="284" column="39" lean-forward="false" selection-start-line="284" selection-start-column="25" selection-end-line="284" selection-end-column="39" />
+            <state relative-caret-position="84">
+              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -30,28 +41,8 @@
       <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="276" column="27" lean-forward="false" selection-start-line="276" selection-start-column="27" selection-end-line="276" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="556" column="0" lean-forward="false" selection-start-line="556" selection-start-column="0" selection-end-line="556" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-720">
-              <caret line="627" column="0" lean-forward="false" selection-start-line="627" selection-start-column="0" selection-end-line="634" selection-end-column="1" />
+            <state relative-caret-position="189">
+              <caret line="9" column="88" lean-forward="false" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -80,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HTML&amp;CSS&amp;Practice/links.html" />
         <option value="$PROJECT_DIR$/HTML&amp;CSS&amp;Practice/links/linking-to-other-sites.html" />
         <option value="$PROJECT_DIR$/HTML&amp;CSS&amp;Practice/links/linking-to-other-pages.html" />
         <option value="$PROJECT_DIR$/HTML&amp;CSS/chapter-06/long-tables.html" />
@@ -128,9 +118,10 @@
         <option value="$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/3.判断浏览器类型.html" />
         <option value="$PROJECT_DIR$/jquery-demo/Ch8/detail.html" />
         <option value="$PROJECT_DIR$/JqueryDemo/Shopping/styles/reset.css" />
-        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/index.html" />
-        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/detail.html" />
         <option value="$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css" />
+        <option value="$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css" />
+        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/detail.html" />
+        <option value="$PROJECT_DIR$/JqueryDemo/Shopping/index.html" />
       </list>
     </option>
   </component>
@@ -141,10 +132,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="20" />
+    <option name="width" value="1324" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -165,7 +155,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -302,6 +291,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,6 +304,13 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping\styles" />
+      <recent name="E:\Front-End\JqueryDemo\Shopping" />
+      <recent name="E:\Front-End\Dom Script\html5" />
+      <recent name="E:\Front-End\Dom Script\Animated" />
+      <recent name="E:\Front-End\Dom Script\chapter8" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Front-End\JqueryDemo\Shopping\scripts" />
       <recent name="E:\Front-End\JqueryDemo\Shopping\styles" />
@@ -321,206 +318,6 @@
       <recent name="C:\JavaProject\FrontEnd\Front-End\Dom Script\chapter4\images" />
       <recent name="E:\Front-End\HTML&amp;CSS&amp;Practice\chapter2" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Front-End\JqueryDemo\Shopping" />
-      <recent name="E:\Front-End\Dom Script\html5" />
-      <recent name="E:\Front-End\Dom Script\Animated" />
-      <recent name="E:\Front-End\Dom Script\chapter8" />
-      <recent name="E:\Front-End\Dom Script\chapter7" />
-    </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/addLoadEvent.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/list.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/message.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/moveElement.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/positionMessage.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/prepareSlideshow.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/styles/layout.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/topics.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/avatar.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/canvas.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/grayscale.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/grayscale.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/modernizr-1.6.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/detail.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/adindex.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/5.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/advertise.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/box.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/btn_cart.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/chos.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/common.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/down.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/headerbg.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/hot.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/loadingAnimation.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/logo.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/look.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_one.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_one_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_one_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_three.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_three_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_three_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_two.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_two_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_two_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_one.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_one_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_one_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_two.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_two_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_two_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_one.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_one_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_one_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_three.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_three_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_three_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_two.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_two_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_two_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/star-matrix.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/theme.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/up.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120216.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120217.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120218.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120219.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120220.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/zoom.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/zoomlens.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/zoomloader.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery-3.2.1.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/styles/reset.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Traversing.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/demo.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/documentReady.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/jquery-3.2.1.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/COUNT.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/MyFirstBehavioralWidget.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/demo.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/lifecycle.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/templates/counter.html</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/jquery-3.2.1.min.js</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -619,6 +416,7 @@
       <workItem from="1502422955087" duration="3314000" />
       <workItem from="1502615734726" duration="10812000" />
       <workItem from="1502797115893" duration="14699000" />
+      <workItem from="1502980985485" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage">
       <created>1502180163278</created>
@@ -725,41 +523,39 @@
       <option name="project" value="LOCAL" />
       <updated>1502897738211</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="css detail">
+      <created>1502897753705</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1502897753705</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89750000" />
+    <option name="totallyTimeSpent" value="90193000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="20" y="0" width="1324" height="772" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21083455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17431192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.174375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -778,7 +574,8 @@
     <MESSAGE value="html5" />
     <MESSAGE value="Template" />
     <MESSAGE value="css detail" />
-    <option name="LAST_COMMIT_MESSAGE" value="css detail" />
+    <MESSAGE value="prepare jquery" />
+    <option name="LAST_COMMIT_MESSAGE" value="prepare jquery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -787,27 +584,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch1/1-8解决冲突/lib/prototype.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2583">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch1/1-8解决冲突/1-8-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qOVOp/lifecycle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jquery-demo/Ch11/jquery技巧/1.禁用页面的右键菜单.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1036,14 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="677">
           <caret line="54" column="18" lean-forward="false" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1061,13 +829,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/images/hot.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/images/star-matrix.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122">
+          <caret line="627" column="0" lean-forward="false" selection-start-line="627" selection-start-column="0" selection-end-line="627" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/box.css">
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/box.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-693">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1075,7 +860,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/thickbox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
+        <state relative-caret-position="-315">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1225347474000" expanded="true" signature="1783:1903" ph="{...}" />
@@ -1086,52 +871,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/images/hot.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/index.html">
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/box.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="275" column="33" lean-forward="false" selection-start-line="275" selection-start-column="21" selection-end-line="275" selection-end-column="33" />
+        <state relative-caret-position="-823">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/index.html">
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/skin/skin_0.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="284" column="39" lean-forward="false" selection-start-line="284" selection-start-column="25" selection-end-line="284" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_0.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="556" column="0" lean-forward="false" selection-start-line="556" selection-start-column="0" selection-end-line="556" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="276" column="27" lean-forward="false" selection-start-line="276" selection-start-column="27" selection-end-line="276" selection-end-column="27" />
+        <state relative-caret-position="189">
+          <caret line="9" column="88" lean-forward="false" selection-start-line="9" selection-start-column="88" selection-end-line="9" selection-end-column="88" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/images/star-matrix.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="556" column="0" lean-forward="false" selection-start-line="556" selection-start-column="0" selection-end-line="556" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720">
-          <caret line="627" column="0" lean-forward="false" selection-start-line="627" selection-start-column="0" selection-end-line="634" selection-end-column="1" />
+        <state relative-caret-position="84">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding />
         </state>
       </provider>

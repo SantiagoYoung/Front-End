@@ -625,14 +625,7 @@ ul.rating li.three a:hover {background-position:0 -128px}
 ul.rating li.four a:hover {background-position:0 -144px}
 ul.rating li.five a:hover {background-position:0 -160px}
 
-/* footer */
-#footer {
-    margin: 0 auto;
-    width: 990px;
-    color: #666666;
-    padding: 18px 0;
-    text-align: center;
-}
+
 
 /* tooltip */
 #tooltip{

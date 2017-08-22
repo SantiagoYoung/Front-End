@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../jquery.js"></script>
+    <script>
+        $(function () {
+            var $li = $("ul li").eq(1);
+            console.log($li);
+            var $li_text = $li.text();
+            console.log($li_text);
+
+            var $para = $("p");
+            var p_txt = $para.attr("title");
+            console.log(p_txt)
+
+            var $li_1 = $("<li title='banana'>香蕉</li>");
+            var $li_2 = $("<li>雪梨</li>");
+            var $li_3 = $("<li title=''>其他</li>");
+//            $("ul").append($li_1);
+//            $("ul").append($li_2);
+            var $parent = $("ul");
+            var $two_li = $("ul li:eq(1)");
+            $parent.append($li_1);
+            $parent.prepend($li_2);
+            $li_3.insertAfter($two_li);
+
+//            var $r = $("ul li:eq(1)").remove();
+//            $r.appendTo($("ul"));
+//            $("ul li").remove("li[title!='菠萝']");
+
+//            $("ul li").click(function () {
+//
+//                alert($(this).html());
+//
+//            });
+
+//            $d = $("ul li:eq(1)").detach();
+//            $d.appendTo("ul");
+                $("ul li").click(function () {
+                    $(this).clone(true).appendTo("ul");
+                })
+
+        })
+    </script>
+</head>
+<body>
+<p title="选择你最喜欢的水果." >你最喜欢的水果是?</p>
+<ul>
+    <li title='苹果'>苹果</li>
+    <li title='橘子'>橘子</li>
+    <li title='菠萝'>菠萝</li>
+</ul>
+</body>
+</html>

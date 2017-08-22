@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fafaf6-deae-48a6-8ddc-5f0a4214d049" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter1/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter1/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter1/链式操作.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/img/down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/img/up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/hide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/show.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/基本选择器.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JqueryDemo/chapter2/案例.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery-demo/Ch1/1-5(表格).html" afterPath="$PROJECT_DIR$/jquery-demo/Ch1/1-5(表格).html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery-demo/Ch1/1-6(DOM对象和jQuery对象).html" afterPath="$PROJECT_DIR$/jquery-demo/Ch1/1-6(DOM对象和jQuery对象).html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery-demo/Ch2/2-5-层次选择器.html" afterPath="$PROJECT_DIR$/jquery-demo/Ch2/2-5-层次选择器.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jquery-demo/Ch2/lib/assist.js" afterPath="$PROJECT_DIR$/jquery-demo/Ch2/lib/assist.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,11 +30,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter1/chapter2/jquery.js">
+      <file leaf-file-name="案例.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/案例.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-357">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/show.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -37,9 +55,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -69,16 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Dom Script/css Dom/story.html" />
-        <option value="$PROJECT_DIR$/Dom Script/css Dom/stripeTables.js" />
-        <option value="$PROJECT_DIR$/Dom Script/css Dom/itinerary.html" />
-        <option value="$PROJECT_DIR$/Dom Script/Animated/test.html" />
-        <option value="$PROJECT_DIR$/Dom Script/Animated/move.html" />
-        <option value="$PROJECT_DIR$/Dom Script/Animated/abstraction.js" />
-        <option value="$PROJECT_DIR$/Dom Script/Animated/message.html" />
-        <option value="$PROJECT_DIR$/Dom Script/Animated/positionMessage.js" />
-        <option value="$PROJECT_DIR$/Dom Script/Animated/list.html" />
-        <option value="$PROJECT_DIR$/Dom Script/Animated/prepareSlideshow.js" />
         <option value="$PROJECT_DIR$/Dom Script/Animated/moveElement.js" />
         <option value="$PROJECT_DIR$/Dom Script/html5/canvas.html" />
         <option value="$PROJECT_DIR$/Dom Script/html5/grayscale.html" />
@@ -120,6 +128,16 @@
         <option value="$PROJECT_DIR$/JqueryDemo/chapter1/链式操作.html" />
         <option value="$PROJECT_DIR$/jquery-demo/Ch1/1-5(表格).html" />
         <option value="$PROJECT_DIR$/jquery-demo/Ch1/1-6(DOM对象和jQuery对象).html" />
+        <option value="$PROJECT_DIR$/JqueryDemo/chapter1/chapter2/基本选择器.html" />
+        <option value="$PROJECT_DIR$/JqueryDemo/chapter1/chapter2/css/style.css" />
+        <option value="$PROJECT_DIR$/jquery-demo/Ch2/2-5-层次选择器.html" />
+        <option value="$PROJECT_DIR$/jquery-demo/Ch2/lib/assist.js" />
+        <option value="$PROJECT_DIR$/JqueryDemo/chapter1/chapter2/案例.html" />
+        <option value="$PROJECT_DIR$/JqueryDemo/chapter1/chapter2/example.css" />
+        <option value="$PROJECT_DIR$/JqueryDemo/chapter1/chapter2/show.js" />
+        <option value="$PROJECT_DIR$/JqueryDemo/chapter2/hide.js" />
+        <option value="$PROJECT_DIR$/JqueryDemo/chapter2/案例.html" />
+        <option value="$PROJECT_DIR$/JqueryDemo/chapter2/show.js" />
       </list>
     </option>
   </component>
@@ -130,10 +148,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
-    <option name="y" value="6" />
-    <option name="width" value="1324" />
-    <option name="height" value="772" />
+    <option name="x" value="26" />
+    <option name="y" value="7" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -153,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -190,11 +207,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JqueryDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter1" />
+              <option name="myItemId" value="jquery-demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -211,10 +224,37 @@
               <option name="myItemId" value="jquery-demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Front-End" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Front-End" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ch2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2-15：案例研究" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,6 +267,13 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo" />
+      <recent name="E:\Front-End\JqueryDemo\Shopping\scripts" />
+      <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping" />
+      <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping\scripts" />
+      <recent name="E:\Front-End\JqueryDemo\Shopping\styles" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\chapter1\chapter2" />
       <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\chapter1" />
@@ -234,139 +281,6 @@
       <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping\scripts" />
       <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping\styles" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Front-End\JqueryDemo\Shopping\scripts" />
-      <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping" />
-      <recent name="C:\JavaProject\FrontEnd\Front-End\JqueryDemo\Shopping\scripts" />
-      <recent name="E:\Front-End\JqueryDemo\Shopping\styles" />
-      <recent name="E:\Front-End\JqueryDemo" />
-    </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/detail.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/tooltip.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/jquery-demo/Ch8/scripts/imgHover.js</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/finish.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/imageHover.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/imgSlide.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery.simplemodal.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/sizeAndprice.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/star.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/switchColor.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/switchImg.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/tab.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/use_jqzoom.js</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -470,6 +384,8 @@
       <workItem from="1502797115893" duration="14699000" />
       <workItem from="1502980985485" duration="5534000" />
       <workItem from="1503108576990" duration="13280000" />
+      <workItem from="1503322773571" duration="1650000" />
+      <workItem from="1503412946512" duration="2599000" />
     </task>
     <task id="LOCAL-00001" summary="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage">
       <created>1502180163278</created>
@@ -590,17 +506,23 @@
       <option name="project" value="LOCAL" />
       <updated>1502981340249</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="jquery">
+      <created>1503235656955</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1503235656955</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112822000" />
+    <option name="totallyTimeSpent" value="119238000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="35" y="6" width="1324" height="772" extended-state="0" />
-    <editor active="true" />
+    <frame x="26" y="7" width="1370" height="744" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17431192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16838996" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -610,15 +532,34 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17431192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16838996" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -635,7 +576,8 @@
     <MESSAGE value="css detail" />
     <MESSAGE value="prepare jquery" />
     <MESSAGE value="finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish" />
+    <MESSAGE value="jquery" />
+    <option name="LAST_COMMIT_MESSAGE" value="jquery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -644,165 +586,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/changeSkin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" column="64" lean-forward="false" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/showImg.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/tooltip.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding>
-            <marker date="1503219073801" expanded="true" signature="144:225" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="1062" column="0" lean-forward="false" selection-start-line="1062" selection-start-column="0" selection-end-line="1062" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/images/zoom.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/scripts/imgSlide.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/scripts/imgHover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/imgSlide.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="84" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/skin/skin_0.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/imageHover.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/scripts/jquery.thickbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5619">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery.thickbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/thickbox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/thickbox.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1368">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/tab.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/sizeAndprice.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/star.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery.simplemodal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/scripts/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/scripts/finish.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -884,86 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <marker date="1503219073104" expanded="true" signature="1613:20836" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="1644:10314" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="1672:10307" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="1786:1877" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="1900:2217" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="2282:10272" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="2311:10257" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="2436:4945" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="2482:4918" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="2528:3691" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="2565:2663" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="2700:3657" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="3724:4887" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="3761:3859" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="3896:4853" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="4988:7580" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="5047:7558" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="5093:7531" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="5139:6303" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="5176:5275" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="5312:6269" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="6336:7500" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="6373:6472" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="6509:7466" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="7601:10193" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="7660:10171" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="7706:10144" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="7752:8916" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="7789:7888" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="7925:8882" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="8949:10113" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="8986:9085" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="9122:10079" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="10349:20139" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="10380:20128" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="10445:12943" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="10529:12924" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="13034:16718" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="13075:13349" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="13182:13326" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="13372:13590" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="13479:13566" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="13627:15728" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="15762:16699" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="15805:16035" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="15834:16008" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="16077:16676" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="16107:16219" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="16262:16432" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="16475:16649" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="16781:20082" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="16820:20063" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="16937:17128" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17157:17314" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17195:17203" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17203:17211" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17365:17509" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17402:17410" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17410:17418" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17559:18032" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17596:17604" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17604:17612" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="17701:18002" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="18078:18459" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="18115:18123" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="18123:18131" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="18221:18429" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="18488:19087" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="18526:18534" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="18534:18542" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="18600:19057" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="18655:19022" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="19134:19275" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="19171:19179" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="19179:19187" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="19346:20040" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="19428:19852" ph="..." />
-            <marker date="1503219073104" expanded="true" signature="19892:20013" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -971,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="287" column="28" lean-forward="true" selection-start-line="287" selection-start-column="28" selection-end-line="287" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,7 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1011,7 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1019,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,7 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1035,7 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-319">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1051,7 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="48" column="39" lean-forward="true" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1059,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-231">
           <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,7 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1075,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1083,7 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,14 +779,175 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-2：jQuery选择的优势-完善的处理机制(预留退路)/2-2-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-2：jQuery选择的优势-完善的处理机制(预留退路)/2-2-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-2：jQuery选择的优势-完善的处理机制(预留退路)/2-2-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-3：3个JavaScript例子/2-3-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-3：3个JavaScript例子/2-3-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="63" lean-forward="true" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-3：3个JavaScript例子/2-3-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-13：解决章头的3个例子/2-13-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-13：解决章头的3个例子/2-13-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-14：选择器注意几点/2-14-1特殊符号.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-4-基本选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/基本选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/lib/assist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-5-层次选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter1/chapter2/jquery.js">
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/img/down.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/css/default.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="210">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-15：案例研究/第1步 - 设计结构和样式，初始化.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="55" column="7" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="55" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch2/2-6-基本过滤选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/example.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="48" column="26" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/hide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/chapter2/show.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding />
         </state>
       </provider>

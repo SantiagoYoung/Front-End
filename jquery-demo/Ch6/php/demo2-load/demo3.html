@@ -15,7 +15,8 @@ body { font-size:12px;}
 <script language="javascript" type="text/javascript">
   $(function(){
 	  $("#send").click(function(){
-			  $("#resText").load("test.html .para",function (responseText, textStatus, XMLHttpRequest){
+			  $("#resText").load("test.html .para",
+                  function (responseText, textStatus, XMLHttpRequest){
 						 alert( $(this).html() );	//在这里this指向的是当前的DOM对象，即 $("#iptText")[0]
 						 alert(responseText);       //请求返回的内容
 						 alert(textStatus);		    //请求状态：success，error

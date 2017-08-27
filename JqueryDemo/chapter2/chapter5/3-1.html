@@ -20,7 +20,8 @@
             });
             $("#send").click(function () {
                 var str = "你选中的是: \r\n";
-                $("[name=items]:checkbox:checked").each(function () {
+                $("[name=items]:checkbox:checked" +
+                    "").each(function () {
                     str += $(this).val() + "\r\n";
                 });
                 console.log(str);

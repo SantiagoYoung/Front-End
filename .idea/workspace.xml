@@ -16,48 +16,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="284" column="39" lean-forward="false" selection-start-line="284" selection-start-column="25" selection-end-line="284" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="276" column="27" lean-forward="false" selection-start-line="276" selection-start-column="27" selection-end-line="276" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="556" column="0" lean-forward="false" selection-start-line="556" selection-start-column="0" selection-end-line="556" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-720">
-              <caret line="627" column="0" lean-forward="false" selection-start-line="627" selection-start-column="0" selection-end-line="634" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,6 +35,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -143,8 +107,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1612" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -164,8 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,128 +139,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JqueryDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JqueryDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Shopping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JqueryDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Shopping" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ch8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Front-End" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Dom Script" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -328,199 +170,6 @@
       <recent name="E:\Front-End\Dom Script\chapter8" />
       <recent name="E:\Front-End\Dom Script\chapter7" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/addLoadEvent.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/list.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/message.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/moveElement.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/positionMessage.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/prepareSlideshow.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/styles/layout.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/Animated/topics.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/avatar.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/canvas.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/grayscale.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/grayscale.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Dom Script/html5/modernizr-1.6.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/detail.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/adindex.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/1.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/2.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/3.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/4.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/ads/5.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/advertise.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/box.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/btn_cart.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/chos.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/common.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/down.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/headerbg.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/hot.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/loadingAnimation.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/logo.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/look.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_one.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_one_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_one_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_three.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_three_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_three_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_two.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_two_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/blue_two_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_one.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_one_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_one_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_two.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_two_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/green_two_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_one.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_one_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_one_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_three.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_three_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_three_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_two.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_two_big.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/pro_img/yellow_two_small.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/star-matrix.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/theme.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/up.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120216.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120217.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120218.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120219.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/upload/20120220.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/zoom.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/zoomlens.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/images/zoomloader.gif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/index.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/scripts/jquery-3.2.1.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Shopping/styles/reset.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/Traversing.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/demo.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/documentReady.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/JqueryDemo/jquery-3.2.1.min.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/COUNT.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/MyFirstBehavioralWidget.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/demo.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/lifecycle.html</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/qOVOp/templates/counter.html</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/jquery-3.2.1.min.js</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -619,6 +268,7 @@
       <workItem from="1502422955087" duration="3314000" />
       <workItem from="1502615734726" duration="10812000" />
       <workItem from="1502797115893" duration="14699000" />
+      <workItem from="1507866613391" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage">
       <created>1502180163278</created>
@@ -729,37 +379,27 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89750000" />
+    <option name="totallyTimeSpent" value="89926000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1612" height="886" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21083455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17418547" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.174375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1036,7 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="677">
           <caret line="54" column="18" lean-forward="false" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1061,7 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1069,7 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-693">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,12 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-630">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1225347474000" expanded="true" signature="1783:1903" ph="{...}" />
-            <marker date="1225347474000" expanded="true" signature="2156:2309" ph="{...}" />
-            <marker date="1225347474000" expanded="true" signature="3342:3495" ph="{...}" />
-            <marker date="1225347474000" expanded="true" signature="3779:3899" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1093,17 +724,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="275" column="33" lean-forward="false" selection-start-line="275" selection-start-column="21" selection-end-line="275" selection-end-column="33" />
+        <state relative-caret-position="105">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="284" column="39" lean-forward="false" selection-start-line="284" selection-start-column="25" selection-end-line="284" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="3591">
+          <caret line="171" column="16" lean-forward="false" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
+          <folding>
+            <marker date="1502936978272" expanded="true" signature="12896:13740" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1111,7 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="276" column="27" lean-forward="false" selection-start-line="276" selection-start-column="27" selection-end-line="276" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,18 +752,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="556" column="0" lean-forward="false" selection-start-line="556" selection-start-column="0" selection-end-line="556" selection-end-column="0" />
+        <state relative-caret-position="13818">
+          <caret line="658" column="17" lean-forward="false" selection-start-line="658" selection-start-column="17" selection-end-line="658" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-demo/Ch8/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/JqueryDemo/Shopping/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720">
-          <caret line="627" column="0" lean-forward="false" selection-start-line="627" selection-start-column="0" selection-end-line="634" selection-end-column="1" />
+        <state relative-caret-position="21">
+          <caret line="58" column="15" lean-forward="false" selection-start-line="58" selection-start-column="15" selection-end-line="58" selection-end-column="15" />
           <folding />
         </state>
       </provider>

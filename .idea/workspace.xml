@@ -619,6 +619,10 @@
       <workItem from="1502422955087" duration="3314000" />
       <workItem from="1502615734726" duration="10812000" />
       <workItem from="1502797115893" duration="14699000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1507866613391" duration="734000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage">
       <created>1502180163278</created>
@@ -725,15 +729,29 @@
       <option name="project" value="LOCAL" />
       <updated>1502897738211</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="forgot where i am">
+      <created>1507866743576</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1507866743576</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="89750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
+=======
+    <option name="totallyTimeSpent" value="90545000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1612" height="886" extended-state="1" />
+>>>>>>> Stashed changes
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21083455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -778,7 +796,8 @@
     <MESSAGE value="html5" />
     <MESSAGE value="Template" />
     <MESSAGE value="css detail" />
-    <option name="LAST_COMMIT_MESSAGE" value="css detail" />
+    <MESSAGE value="forgot where i am" />
+    <option name="LAST_COMMIT_MESSAGE" value="forgot where i am" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

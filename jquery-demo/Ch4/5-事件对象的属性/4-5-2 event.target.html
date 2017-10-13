@@ -9,6 +9,7 @@
 $(function(){
 	$("a[href='http://google.com']").click(function(event) {
 	  var tg = event.target;  //获取事件对象
+        var e = event;
 	  alert( tg.href ) ;
 	  return false;//阻止链接跳转
 	});

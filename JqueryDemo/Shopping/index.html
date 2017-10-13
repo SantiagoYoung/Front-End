@@ -5,8 +5,20 @@
     <title>Jane Shopping</title>
     <link rel="stylesheet" href="styles/main.css" type="text/css">
     <link rel="stylesheet" href="styles/reset.css" type="text/css">
+    <link rel="stylesheet" href="styles/skin/skin_0.css" type="text/css" id="cssfile" />
+    <!--js文件-->
+    <script src="scripts/jquery.js"></script>
+    <!--<script src="scripts/jquery-3.2.1.min.js"></script>-->
 
 
+    <script src="scripts/input.js"></script>
+    <script src="scripts/changeSkin.js"></script>
+    <script src="scripts/jquery.cookie.js"></script>
+    <script src="scripts/nav.js"></script>
+    <script src="scripts/showImg.js"></script>
+    <script src="scripts/tooltip.js"></script>
+    <script src="scripts/imgSlide.js"></script>
+    <script src="scripts/imageHover.js"></script>
 </head>
 <body>
 
@@ -17,7 +29,7 @@
             <a class="logo" href="#logo"> <img src="images/logo.gif" alt="logo"> </a>
 
             <div class="search">
-                <input name="search" placeholder="请输入商品">
+                <input id="inputSearch" name="search" value="请输入商品">
             </div>
 
             <ul id="skin">
@@ -52,7 +64,7 @@
                                         <em><a href="#nogo">New Balance</a></em>
                                         <em><a href="#nogo">Under Armour</a></em>
                                         <em><a href="#nogo">特步</a></em>
-                                        <em class="noborder"><a href="#nogo">Apple</a></em>
+                                        <em class="noborder hot"><a href="#nogo">Apple</a></em>
                                     </dd>
                                 </dl>
                                 <dl>

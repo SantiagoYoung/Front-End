@@ -1,22 +1,22 @@
 /*
-¸¨Öú:
-1,×Ô¶¯ÖØÖÃ
-2,¸øÔªËØÌí¼Ó¶¯»­
+ï¿½ï¿½ï¿½ï¿½:
+1,ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ï¿½
+2,ï¿½ï¿½Ôªï¿½ï¿½ï¿½ï¿½Ó¶ï¿½ï¿½ï¿½
 */
 
 $(document).ready(function(){
-	//ÊÖ¶¯ÖØÖÃÒ³ÃæÔªËØ
+	//ï¿½Ö¶ï¿½ï¿½ï¿½ï¿½ï¿½Ò³ï¿½ï¿½Ôªï¿½ï¿½
 	$("#reset").click(function(){
 		$("*").removeAttr("style");
 		$("div[class=none]").css({"display":"none"}); 
 	});
-	//ÅĞ¶ÏÊÇ·ñ×Ô¶¯ÖØÖÃ
+	//ï¿½Ğ¶ï¿½ï¿½Ç·ï¿½ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ï¿½
 	$("input[type=button]").click(function(){
 		if($("#isreset").is(":checked")){
 			$("#reset").click();
 		}
 	});
-	//¸øidÎªmoverµÄÔªËØÌí¼Ó¶¯»­.
+	//ï¿½ï¿½idÎªmoverï¿½ï¿½Ôªï¿½ï¿½ï¿½ï¿½Ó¶ï¿½ï¿½ï¿½.
 	function animateIt() {
 		$("#mover").slideToggle("slow", animateIt);
 	}

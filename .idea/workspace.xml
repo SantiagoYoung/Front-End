@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fafaf6-deae-48a6-8ddc-5f0a4214d049" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML&amp;&amp;CSS&amp;&amp;2ed/chapter5/adding-image.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -318,7 +317,7 @@
       <workItem from="1508208035409" duration="1975000" />
       <workItem from="1508324798463" duration="598000" />
       <workItem from="1508395220429" duration="6591000" />
-      <workItem from="1508490277371" duration="3826000" />
+      <workItem from="1508490277371" duration="3830000" />
     </task>
     <task id="LOCAL-00001" summary="hello dojo&#10;dom manipulate&#10;              --&gt;then template usage">
       <created>1502180163278</created>
@@ -439,11 +438,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508497098321</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="chapter5 image">
+      <created>1508497601898</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1508497601898</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103515000" />
+    <option name="totallyTimeSpent" value="103519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="168" y="373" width="1305" height="615" extended-state="0" />

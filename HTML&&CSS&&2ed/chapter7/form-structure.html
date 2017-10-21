@@ -8,6 +8,65 @@
     <form action="http://www.example.com" method="get">
         <p>This is where form control will appear.</p>
     </form>
-
+    <form action="@">
+        <p>
+            Username:
+            <input type="text" name="username" size="15" maxlength="30"/>
+            <input type="password" name="password" />
+        </p>
+        <textarea>Comment......</textarea>
+    </form>
+<form action="@" method="post">
+    <p>Please select your favorite genre:</p>
+    <br />
+    <input type="radio" name="genre" value="rock" checked="checked" />Rock
+    <input type="radio" name="genre" value="pop" checked="checked"/>Pop
+    <input type="radio" name="genre" value="jazz" />Jazz
+</form>
+<form>
+    <p>Select your music :</p>
+    <br />
+    <input type="checkbox" name="service" value="itunes" checked="checked" />iTunes
+    <input type="checkbox" name="service" value="lastfm" />Last.fm
+    <input type="checkbox" name="service" value="spotify" />Spotify
+</form>
+<form>
+    <p>What device do you lsten to music on?</p>
+    <select name="device" multiple="multiple">
+        <option value="ipod">iPod</option>
+        <option value="radio">Radio</option>
+        <option value="mp3">Mp3</option>
+    </select>
+    <p>Upload your song in MP# format:</p>
+    <input type="file" name="song" /><br />
+    <input type="submit" value="Upload" />
+</form>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

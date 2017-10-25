@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hover Active Focus</title>
+    <style>
+        input {
+            padding: 6px 12px 6px 12px;
+            border: 1px solid #665544;
+            color: #ffffff;
+        }
+        input.submit:hover {
+            background-color: #665544;
+        }
+        input.submit:active {
+             background-color: chocolate;
+        }
+        input.text {
+            color: #CCCCCC;
+        }
+        input.text:focus {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <input type="text" class="text" value=""/>
+        <input type="submit" class="submit"/>
+    </form>
+</body>
+</html>
